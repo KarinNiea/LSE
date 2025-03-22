@@ -1,0 +1,28 @@
+{
+    "nombre": "",
+    "atributos": {
+        "fuerza": 1,
+        "inteligencia": 1,
+        "sabiduría": 1,
+        "agilidad": 1,
+        "constitución": 1,
+        "voluntad": 1,
+        "valentía": 1,
+        "suerte": 1,
+        "encanto": 1,
+        "percepción": 1
+    },
+    "datos_fisicos": {
+        "contextura": "",
+        "tono_piel": "",
+        "edad": 0,
+        "sexo": ""
+    },
+    "titulos": {},
+    "habilidades": {},
+    "estado": {
+        "emocion": "",
+        "coordenadas": [0, 0],
+        "accion": ""
+    }
+}
